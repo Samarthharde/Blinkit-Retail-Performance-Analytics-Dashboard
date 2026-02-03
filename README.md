@@ -96,43 +96,43 @@ This PDF contains all dashboard views with filters and interactive insights.
 
 ### 📌 Pricing & Revenue Behavior
 
-Monthly revenue remains stable between ₹2.2M – ₹2.45M, with seasonal variation
+- Monthly revenue remains stable between ₹2.2M – ₹2.45M, with seasonal variation
 
-Certain brands consistently follow premium pricing strategies, contributing more to revenue
+- Certain brands consistently follow premium pricing strategies, contributing more to revenue
 
-Category-level pricing impacts revenue more strongly than individual product discounts
+- Category-level pricing impacts revenue more strongly than individual product discounts
 
 ### 👤 Customer Acquisition & Retention
 
-Returning customers contribute nearly equal or higher order volume compared to new customers
+- Returning customers contribute nearly equal or higher order volume compared to new customers
 
-Web and iOS platforms show stronger repeat customer engagement
+- Web and iOS platforms show stronger repeat customer engagement
 
-Indicates strong customer retention and loyalty behavior
+- Indicates strong customer retention and loyalty behavior
 
 ### 🏙️ City-Level Performance
 
-Mumbai and Pune dominate customer acquisition and total order value
+- Mumbai and Pune dominate customer acquisition and total order value
 
-Smaller cities like Nashik and Aurangabad show lower volume but better discount efficiency per customer
+- Smaller cities like Nashik and Aurangabad show lower volume but better discount efficiency per customer
 
-Discount impact varies significantly by city, indicating targeted promotional strategies
+- Discount impact varies significantly by city, indicating targeted promotional strategies
 
 ### 💳 Payment Behavior
 
-UPI contributes the highest completed order value, followed by COD and card payments
+- UPI contributes the highest completed order value, followed by COD and card payments
 
-COD shows a slightly higher cancellation rate
+- COD shows a slightly higher cancellation rate
 
-Digital payments correlate strongly with order completion
+- Digital payments correlate strongly with order completion
 
 ### 🧾 Product & Discount Analysis
 
-Products with moderate base prices and controlled discounts generate higher final payable value
+- Products with moderate base prices and controlled discounts generate higher final payable value
 
-Heavy discounting does not always result in higher revenue
+- Heavy discounting does not always result in higher revenue
 
-Product mix and category selection drive revenue optimization
+- Product mix and category selection drive revenue optimization
 
 
 ## 🧠 Key Takeaways
