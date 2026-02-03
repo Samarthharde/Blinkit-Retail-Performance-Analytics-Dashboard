@@ -73,7 +73,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 
 ### 🔹 City Performance Insights
-![City Performance Insights](Screenshots/PROPERTY_OVERVIEW.png)
+![City Performance Insights](screenshots/City Performance Insights.png)
 
 
 ### 🔹 Market Pricing & Product Performance
@@ -130,3 +130,14 @@ Products with moderate base prices and controlled discounts generate higher fina
 Heavy discounting does not always result in higher revenue
 
 Product mix and category selection drive revenue optimization
+
+
+## 🧠 Key Takeaways
+
+- Quick-commerce growth is driven by pricing discipline, product mix, and repeat customers, not discounts alone
+
+- City-level and category-level analysis provides more actionable insights than overall totals
+
+- Payment behavior significantly influences revenue realization
+
+- Clear data storytelling with metrics improves decision-making
