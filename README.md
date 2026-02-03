@@ -64,33 +64,34 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 
 ## 🖼️ Dashboard Preview
 
-### 🔹 Retail Store Operations Summary
-![Retail Store Operations Summary](Screenshots/PROPERTY_OVERVIEW.png)
+### 🔹 Store Operations
+![Store Operations](screenshots/Store_Operations.png)
 
 
 ### 🔹 Value & Product Amounts
-![Value & Product Amounts](Screenshots/PROPERTY_OVERVIEW.png)
+![Value & Product Amounts](screenshots/Value_&_product_Amounts.png)
 
 
 ### 🔹 City Performance Insights
-![City Performance Insights](screenshots/City Performance Insights.png)
+![City Performance Insights](screenshots/City_Performance_Insights.png)
 
 
-### 🔹 Market Pricing & Product Performance
-![Market Pricing & Product Performance](Screenshots/PROPERTY_OVERVIEW.png)
+### 🔹 Market Research
+![Market Research](screenshots/Market_Research.png)
 
 
 ### 🔹 Pricing & Revenue Overview
-![Pricing & Revenue Overview](Screenshots/PROPERTY_OVERVIEW.png)
+![Pricing & Revenue Overview](screenshots/Pricing_&_Revenue_Overview.png)
 
 
 ## 📄 Full Dashboard (All Pages – PDF)
 
-👉 [View Complete Project](Real_Estate.pdf)
+👉 [View Complete Project](Blinkit.twbx)
 
 This PDF contains all dashboard views with filters and interactive insights.
 
 ## 🔍 Key Insights
+
 ### 📌 Pricing & Revenue Behavior
 
 Monthly revenue remains stable between ₹2.2M – ₹2.45M, with seasonal variation
