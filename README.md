@@ -1,4 +1,6 @@
-# Blinkit-Retail-Performance-Analytics-Dashboard
+# Blinkit-Retail-Performance-Analytics-Dashboard 
+
+![](Image.webp)
 
 ## 📌 Overview
 
