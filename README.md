@@ -65,22 +65,28 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Retail Store Operations Summary
+![Retail Store Operations Summary](Screenshots/PROPERTY_OVERVIEW.png)
 
 
 ### 🔹 Value & Product Amounts
+![Value & Product Amounts](Screenshots/PROPERTY_OVERVIEW.png)
 
 
 ### 🔹 City Performance Insights
+![City Performance Insights](Screenshots/PROPERTY_OVERVIEW.png)
 
 
 ### 🔹 Market Pricing & Product Performance
+![Market Pricing & Product Performance](Screenshots/PROPERTY_OVERVIEW.png)
 
 
 ### 🔹 Pricing & Revenue Overview
+![Pricing & Revenue Overview](Screenshots/PROPERTY_OVERVIEW.png)
+
 
 ## 📄 Full Dashboard (All Pages – PDF)
 
-👉 View Complete Dashboard PDF
+👉 [View Complete Project](Real_Estate.pdf)
 
 This PDF contains all dashboard views with filters and interactive insights.
 
