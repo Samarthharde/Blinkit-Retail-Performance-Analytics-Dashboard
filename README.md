@@ -86,7 +86,7 @@ For GitHub presentation and ease of review, the primary dashboard views are high
 ![Pricing & Revenue Overview](screenshots/Pricing_&_Revenue_Overview.png)
 
 
-## 📄 Full Dashboard (All Pages – PDF)
+## 📄 Full Dashboard
 
 👉 [View Complete Project](Blinkit.twbx)
 
